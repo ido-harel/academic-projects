@@ -3,7 +3,7 @@
 This repository contains projects I developed during my B.Sc. studies.
 
 ## About
-Here I upload assignments and projects from my courses, including topics such as:
+Here I upload assignments and projects from my courses, including:
 - ADS such as, AVL trees and Heaps
 - features added to pac-man game
 - Physics data analysis
